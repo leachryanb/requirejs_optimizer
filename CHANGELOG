@@ -1,3 +1,4 @@
 0.1.0: Upgrades r.js from 1.0.7 to 2.0.6
-0.2.0: Adds Rhino support for R.js optimization (was just Node previously) (@hawknewton, @leachryanb)
+0.2.0: Adds Rhino support for r.js optimization (was just Node previously) (@hawknewton, @leachryanb)
 0.3.0: Adds requirejs_optimizer_java_opts option for specifying Java Runtime options (only when using Rhino) (@hawknewton)
+0.3.2: Upgrades r.js from 2.0.6 to 2.1.4 (@leachryanb)
